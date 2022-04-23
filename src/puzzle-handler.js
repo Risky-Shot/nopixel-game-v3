@@ -6,7 +6,7 @@ const progressBar = $('.answer-progress-bar')
 const inputElement = $('.answer-input')
 
 let puzzleTime = 6
-let puzzleAmount = 5
+let puzzleAmount = 4
 
 
 // handles generating puzzle and returning result
